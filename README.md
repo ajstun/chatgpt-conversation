@@ -14,7 +14,7 @@ To install all of them:
 
 ## Installation
 
-Copy `config.json.example` to `config.json` and fill in the `session_token` value following the guide [here](https://github.com/acheong08/ChatGPT).
+Copy `config.json.example` to `config.json` and fill in the `session_token` value following the guide [here](https://github.com/acheong08/ChatGPT/wiki/Setup).
 
 Also, install requirements:
 
